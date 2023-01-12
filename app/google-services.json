@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518898348258",
+    "project_id": "bagailo",
+    "storage_bucket": "bagailo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518898348258:android:484119422e4134534aaebb",
+        "android_client_info": {
+          "package_name": "gottegame.olimp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518898348258-k2uhbhckop6jsqg19tip49lmdco9nq8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoM0RSslPoPAdY6Gk6QHs89Fqlp3lfni0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518898348258-k2uhbhckop6jsqg19tip49lmdco9nq8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
